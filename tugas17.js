@@ -8,3 +8,9 @@ function tugas17(){
   console.log(huruf2.toUpperCase())
 }
 tugas17()
+
+function tugas17b(){
+  var i = ('Lorem ')
+  console.log(i.charCodeAt(0),i.charCodeAt(1),i.charCodeAt(2),i.charCodeAt(3),i.charCodeAt(4),i.charCodeAt(5));
+}
+tugas17b()
